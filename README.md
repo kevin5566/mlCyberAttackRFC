@@ -1,4 +1,4 @@
-# ML_CyberAttack_RFC
+# mlCyberAttackRFC
 * Predict a connection is normal or malicious attack based on machine learning techniques: **Random Forest Classifier**
 * This is a final project of the course **NTU Machine Learning 2016 Fall**.  
 * For more detail, please refer to `Report.pdf` to see the whole solution concept of this project.
