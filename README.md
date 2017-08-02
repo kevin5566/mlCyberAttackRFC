@@ -1,6 +1,7 @@
 # ML_CyberAttack_RFC
-This is a final project of the course **NTU Machine Learning 2016 Fall**.
-Please refer to `Report.pdf` to see the whole solution concept of this project.
+* Predict a connection is normal or malicious attack based on machine learning techniques: **Random Forest Classifier**
+* This is a final project of the course **NTU Machine Learning 2016 Fall**.  
+* For more detail, please refer to `Report.pdf` to see the whole solution concept of this project.
 
 ## `RFC.sh` Usage 
 * `./RFC.sh $1`
