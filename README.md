@@ -11,4 +11,7 @@ Please refer to `Report.pdf` to see the whole solution concept of this project.
   - `RFC.py`: build the a random forest as trained model, and predict the testing data as `ans.csv`
 
 ## File List
-`newtrain.py`, `Report.pdf`, `RFC.py`, `RFC.sh`
+* `newtrain.py`, `RFC.py`, `RFC.sh`: main program
+* `Report.pdf`: report
+* `class_to_vector.txt`: a transfer list of training data
+* `training_attack_types.txt`: a transfer list of training data label
